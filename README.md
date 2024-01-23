@@ -24,3 +24,15 @@ Once the smart contract is finallly deployed, it cannot be:
 1. Altered (immutable)
 2. Automatically executes
 3. Everyone sees the terms of the agreement
+
+### Current smart contract landscape
+1. Decentralised.
+2. Transparency & Flexibility.
+3. Speed and Efficiency.
+4. Security and Immutability.
+
+#### What smart contracts have done so far.
+1. DeFI : Decentralised Finance.
+2. DAOs : Decentralised Autonomous Organisations.
+3. NFTs : Non-Fungible Tokens.
+4.  
